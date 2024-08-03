@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+networkx
+tqdm
+scikit-learn
+python-louvain
+pickle
